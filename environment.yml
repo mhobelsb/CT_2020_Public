@@ -1,5 +1,7 @@
-name: binder-notebooks
+name: ct-environment
 channels:
- - conda-forge
- dependencies:
- - python =3
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
