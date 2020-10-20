@@ -1,1 +1,5 @@
-
+name: binder-notebooks
+channels:
+ - conda-forge
+ dependencies:
+ - python 3
