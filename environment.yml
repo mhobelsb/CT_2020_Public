@@ -5,4 +5,6 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - tensorflow
+  - tensorflow==2.0.0-beta1
+  - scikit-learn==0.21.3
+
